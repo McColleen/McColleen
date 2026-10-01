@@ -2,7 +2,6 @@
 ***
 Welcome to my Github! 
 I'm a Computer Science student at SETU, branching into Cloud & Networks.
-***
 ## About:
 ***
 - 2nd Year Computer Science (Cloud & Networks) student at **South East Technological University (SETU)**
