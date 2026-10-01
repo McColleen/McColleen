@@ -12,6 +12,7 @@ I'm a Computer Science student at SETU, branching into Cloud & Networks.
 ## Connect With Me on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/colleen-mccarthy-093718256)
+***
 ```bash
 colleen@setu:~$ roll d20 --check "deploy ranger.server"
 Rolled a 1. The server has been eaten by a mimic.
