@@ -6,7 +6,7 @@ I'm a Computer Science student at SETU, branching into Cloud & Networks.
 - Interested **cloud infrastructure**, **networking** and how systems connect at scale
 - Currently my hobbies include: Raspberry Pi setups, Sketching & Tabletop Roleplaying Games
   ***
-##Current Experience
+## Current Experience
 
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,js,java,python,git,raspberrypi&perline=9)](https://skillicons.dev)
 ## Connect With Me on LinkedIn
