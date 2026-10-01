@@ -9,3 +9,6 @@ I'm a Computer Science student at SETU, branching into Cloud & Networks.
   ## Current Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,js,java,python,git,raspberrypi&perline=9)](https://skillicons.dev)
+## Connect With Me on LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](www.linkedin.com/in/colleen-mccarthy-093718256)
